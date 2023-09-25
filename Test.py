@@ -12,6 +12,12 @@ while True:
         break
     else: print("Uw bericht is te lang. Probeer het opnieuw.")
 
+import datetime
+current_date_time = datetime.datetime.now()
+formatted_date_time =
+
+
+
 
 
 
